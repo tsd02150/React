@@ -27,7 +27,7 @@ const TodoInsert = ({ onInsert }) => {
         onChange={onChange}
       />
       <button type="submit">
-        <MdAdd />
+        <MdAdd  />
       </button>
     </form>
   );
